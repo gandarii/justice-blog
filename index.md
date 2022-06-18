@@ -1,36 +1,9 @@
 ## Environmental Impacts
-You can use the [editor on GitHub](https://github.com/gandarii/justice-blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For my final project topic, I wrote about how through my story map, I wanted to tell a story about the immigrant experience in the United States, particularly as it intersects with the physical urban environment. I want my project to demonstrate the existence of and to describe the effects of environmental racism on primarily immigrant communities of color. When thinking about this project, I was inspired by my own neighborhood in San Diego, called Barrio Logan. In the 1950s, the neighborhood was rezoned from residential to mixed-use neighborhood, causing it to become one of the most contaminated communities today. In the present day, there is a large presence of industry adjacent to homes, including an oil-processing center and a navy shipyard. The result is that according to the Cal Environmental Proection Agency, the zip code in which Barrio Logan is located has an asthma hospitalization rate higher than 92.9 percent of zip codes across California. As a largely Hispanic neighborhood, I will analyze it and determine the air quality statistics as they relate to immigration statistics. Overall, through the analysis of a specific neighborhood, I will aim to determine how the environmental conditions that urban populations experience are interlinked with factors such as immigration.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gandarii/justice-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Part One
+The specific mapping project that I looked at is the CalEnviroScreen project, which is by the Office of Environmental Health Hazard Assessment (OEHHA). The website describes it as a screening methodology which can be used to "help identify California communities that are disproportionately burdened by multiple sources of pollution". The results of the air quality reports are presented in the form of a map. The map is divided by neighborhood and it is color-coded according to percentile; the highest percentiles are for the most pollution-burdened communities. Barrio Logan falls into the highest range, which is 90-100. The map includes the specific exposures that each community undergoes, including ozone, particulate matter, traffic, pesticides, etc. It also categorizes the environmental effects including cleanup sites, solid waste, and hazardous waste. It also includes includes effects such as asthma, low birth weight, and cardiovascular disease into a category. The map also includes a table of socioeconomic factors and pie charts of race and ethnicity for each neighborhood. All of this information is presented as quantitative data, ranking the exposure level from 0-100. While this map does tell a story through this quantitative data of what exposures a community faces, what kind of people live in that community, and what some of the effects of the exposures are, the map is very general. The information presented shows that even though it covers specific neighborhoods, it is not a map about Barrio Logan, nor about the city of San Diego, but about California as a whole and thus the information it contains is more broad. By looking at it, it is understood that Barrio Logan has high levels of diesel particulate matter and traffic congestion, but someone who is not from the neighborhood would not be able to resonate with the information and understand why it is the way it is. Firstly, the map doesn't include the name of neighborhoods or of places, whereas a more grassroots or local map would include recognizable community places. Second of all, the map just includes statistics and a map that does not reveal place specific information. From the map, it cannot be discerned that Barrio Logan is next to a shipyard, or that it contains a lot of industry or even mechanic shops. It gives no idea of what is located in the neighborhood that gives rise to the unhealthy air quality. While it does include some of the repercussions, all of this is strictly through statistics and there are no photographs, oral histories, or even a description that is neighborhood specific. Overall, this map does allow us to see if the trends that exist in certain neighborhoods are replicated throughout the state. It is a social justice intervention on a larger government-scale as opposed to being local and specific to Barrio Logan. It incorporates social justice by including data on ethnicity and other social factors like education and age, which tells us about major trends and demonstrates the reality of environmental racism, but the story it tells is very general. In order to advocate for the specific neighborhood of Barrio Logan, a more place-specific map is needed.
